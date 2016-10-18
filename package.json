@@ -1,0 +1,12 @@
+{
+  "name": "nodetest",
+  "version": "0.1.0",
+  "author": "Candidate Developer",
+  "license": "UNLICENSED",
+  "description": "Test to summarise cost codes",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "csv": "0.4.6"
+  }
+}
