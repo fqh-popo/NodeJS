@@ -8,10 +8,10 @@ time_in,time_out,break_minutes,cost_code <br>
 05/01/2016 08:55,05/01/2016 16:55,15,C <br>
 
 ##and create a task to parse and process the file to produce the following output...
-node main.js
-A=450
-B=940
-C=885
+node main.js <br>
+A=450 <br>
+B=940 <br>
+C=885 <br>
 
 # Realizing
 1. You need to have <b>node.js</b> installed on your machine to run this example
